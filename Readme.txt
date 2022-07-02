@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+#Thanks for downloading this template!
 
 Template Name: Bocor
 Template URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
